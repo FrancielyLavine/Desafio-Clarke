@@ -1,0 +1,8 @@
+.box-individual{
+    display: flex;
+    
+    background: #FFFFFF;
+    color: gray;
+    border-radius: 15px;
+
+}

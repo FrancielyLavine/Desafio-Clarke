@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    min-width: 100vw;
+    min-height: 100vh;
+
+    background: #c6E5b1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+form{
+    display: flex;
+    align-items: center;
+}
+
+input{
+    width: 200px;
+    padding: 10px;
+
+    border-radius: 10px;
+    border-color: antiquewhite;
+    border-style: none;
+    
+}
+button{
+    display: flex;
+    align-items: center;
+}
+.lupa{
+    height: 50px;
+    cursor: pointer;
+
+}
